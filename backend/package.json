@@ -27,7 +27,7 @@
     "feedparser": "^2.2.10",
     "helmet": "^5.0.2",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^6.2.9",
+    "mongoose": "^6.4.6",
     "morgan": "^1.10.0",
     "node-fetch": "^2.6.7",
     "passport": "^0.5.2",
